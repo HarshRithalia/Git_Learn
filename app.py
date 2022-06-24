@@ -1,4 +1,5 @@
 a= 8
 b=5
-c= a+b
-print(c)
+c=7
+d= a+b+c
+print(d)
